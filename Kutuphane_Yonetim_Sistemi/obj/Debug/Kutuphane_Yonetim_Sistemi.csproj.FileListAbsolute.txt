@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\Kutuphane_Yonetim_Sistemi\bin\Debug\Kutuphane_Yonetim_Sistemi.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\Kutuphane_Yonetim_Sistemi\bin\Debug\Kutuphane_Yonetim_Sistemi.exe
+C:\Users\zeyne\OneDrive\Masaüstü\Kutuphane_Yonetim_Sistemi\bin\Debug\Kutuphane_Yonetim_Sistemi.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Kutuphane_Yonetim_Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Kutuphane_Yonetim_Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Kutuphane_Yonetim_Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.exe
+C:\Users\zeyne\OneDrive\Masaüstü\Kutuphane_Yonetim_Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.pdb
